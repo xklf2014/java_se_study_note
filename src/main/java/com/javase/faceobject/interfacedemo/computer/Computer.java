@@ -1,6 +1,6 @@
 package com.javase.faceobject.interfacedemo.computer;
 
-import sun.plugin2.gluegen.runtime.CPU;
+//import sun.plugin2.gluegen.runtime.CPU;
 
 /**
  * @Author story

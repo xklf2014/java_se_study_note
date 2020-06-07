@@ -1,6 +1,6 @@
 package com.javase.basic;
 
-import sun.lwawt.macosx.CSystemTray;
+//import sun.lwawt.macosx.CSystemTray;
 
 import java.util.Scanner;
 
